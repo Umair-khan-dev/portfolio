@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
+import Grid from "./components/Grid";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
@@ -11,6 +12,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <Grid />
       <About />
       <Experience />
       <Projects />

@@ -13,9 +13,9 @@ function Projects() {
     {
       title: "BMI Calculator",
       desc: "Calculate BMI in Metric and Imperial units",
-      link: "https://your-live-site-link.com",
+      link: "https://bmi-calculator-project-5.netlify.app/",
     },
-     {
+    {
       title: "CHATBOOT",
       desc: "AI-powered chatbot for customer support",
       link: "https://chats-apps-react.netlify.app/",

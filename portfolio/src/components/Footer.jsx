@@ -3,7 +3,7 @@ function Footer() {
     <footer style={styles.footer}>
       <div style={styles.icons}>
         {/* GitHub */}
-        <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Umair-khan-dev" target="_blank" rel="noreferrer">
           <img 
             src="https://cdn-icons-png.flaticon.com/512/25/25231.png" 
             alt="GitHub" 
@@ -12,7 +12,7 @@ function Footer() {
         </a>
 
         {/* LinkedIn */}
-        <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/umair-khan-0741a7296/" target="_blank" rel="noreferrer">
           <img 
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
             alt="LinkedIn" 
