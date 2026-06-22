@@ -50,7 +50,7 @@ function Hero() {
           style={styles.btnContainer}
         >
             <a href="#projects" style={styles.primaryBtn}>View My Work</a>
-            <a href="/Umair_KHAN_CV.pdf" download style={styles.primaryBtn}>Download CV</a>
+            <a href="/Umair-cv.pdf" download style={styles.primaryBtn}>Download CV</a>
             <a href="#contact" style={styles.secondaryBtn}>Contact Me</a>
         </motion.div>
       </motion.div>
